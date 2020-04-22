@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/rlgdemo/rlgdemo.iml" filepath="$PROJECT_DIR$/rlgdemo/rlgdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/rlgqSpringboot.iml" filepath="$PROJECT_DIR$/.idea/rlgqSpringboot.iml" />
     </modules>
   </component>

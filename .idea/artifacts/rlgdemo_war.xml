@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rlgdemo:war">
+    <output-path>$PROJECT_DIR$/rlgdemo/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>rlgdemo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="rlgdemo-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="rlgdemo:war exploded" />
+    </root>
+  </artifact>
+</component>
